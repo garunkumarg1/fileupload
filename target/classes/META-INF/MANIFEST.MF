@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: File Upload
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: garun
+Implementation-Vendor-Id: com.finra.excersice
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/fileupload/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
